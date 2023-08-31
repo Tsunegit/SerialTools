@@ -1,5 +1,5 @@
 # SerialTools
 wpf串口小工具
 
-![image](https://github.com/Tsunegit/SerialTools/assets/80894635/9f5a22c7-bfbe-4269-85d0-5225a3de6239)
+![image](https://github.com/Tsunegit/SerialTools/assets/80894635/cea47cad-95e1-4e43-85f4-0c03484bd68d)
 
